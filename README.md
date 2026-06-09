@@ -1,2 +1,2 @@
-# ASSSIGNMENT
+# Assignment for web development
 
